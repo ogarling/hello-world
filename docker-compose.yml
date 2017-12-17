@@ -10,4 +10,4 @@ services:
       - ./:/home/node/app
     expose:
       - "8000"
-    command: "node index.js"
+    command: "node server.js"

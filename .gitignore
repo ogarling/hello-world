@@ -1,6 +1,6 @@
 .vagrant/
 .vscode/
-node-modules
+node_modules/
 *.mdb
 *.old
 result[1234567890]*/
